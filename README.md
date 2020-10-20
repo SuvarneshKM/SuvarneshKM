@@ -34,6 +34,10 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/bootstrap.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/react.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/flutter.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/mysql.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/git.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
+
 
 
 
