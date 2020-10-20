@@ -20,6 +20,13 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 
 
 **Talking about Personal Stuffs:**
+jsadas
+asdbjasd
+asbdjasd
+asdkasd
+asjdkjjkasd
+ajsjdsajkd
+asad
 
 
 **Languages and Tools:**  
@@ -39,7 +46,7 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=350 align="left" /></a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&show_icons=true" align="right" /></a>
 
 
 
