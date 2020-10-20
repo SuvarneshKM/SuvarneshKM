@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, currently pursuing my BTech majoring in Electrical and Electronics from [CUCEK](http://cucek.in/). I am a Developer , also Security and OSINT enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTech majoring in Electrical and Electronics from [CUCEK](http://cucek.in/). I am a Developer , also Security and OSINT enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 <a href="https://twitter.com/SuvarneshKM">
@@ -21,10 +21,10 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- :sunglasses: I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@suvarneshkm](https://twitter.com/SuvarneshKM);
+- :milky_way: Still discovering the mysteries in universe
 - 📝[Resume]()
 
 **Languages and Tools:**  
@@ -43,8 +43,8 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/git.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=350 align="left" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right" /></a>
+<code><img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" align="left" /></code>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right" /></code>
 
 
 
