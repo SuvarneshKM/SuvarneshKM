@@ -15,13 +15,25 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 <a href="https://www.instagram.com/_suvarnesh.rdg_/">
   <img align="left" alt="Suvarnesh K M | Instagram" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/instagram.svg" />
 </a>
-  
+  <br />
 <img align="right" alt="GIF" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 **Talking about Personal Stuffs:**
 
 
 **Languages and Tools:**  
+
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/c.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/cplusplus.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/python.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/html5.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/css3.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/javascript.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/django.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/bootstrap.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/react.svg"></code>
+<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/flutter.svg"></code>
 
 
 
