@@ -4,16 +4,16 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), friends call me Appu, curr
 
 
 <a href="https://twitter.com/SuvarneshKM">
-  <img align="left" alt="Suvarnesh K M | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Suvarnesh K M | Twitter" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/suvarnesh-km/">
-  <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/suvarneshkm/">
-  <img align="left" alt="Suvarnesh K M | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/facebook.svg" />
+  <img align="left" alt="Suvarnesh K M | Facebook" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/_suvarnesh.rdg_/">
-  <img align="left" alt="Suvarnesh K M | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Suvarnesh K M | Instagram" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/instagram.svg" />
 </a>
   
 <img align="right" alt="GIF" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/code.gif?raw=true" width="500" height="320" />
