@@ -25,7 +25,6 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTec
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - :milky_way: Still discovering the mysteries in universe
-- 📝[Resume]()
 
 **Languages and Tools:**  
 
