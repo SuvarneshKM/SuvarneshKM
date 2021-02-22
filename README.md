@@ -18,6 +18,7 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTec
   <br />
 <img align="right" alt="GIF" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/code.gif?raw=true" width="500" height="320" />
   <br />
+  <br />
 
 **Talking about Personal Stuffs:**
 
