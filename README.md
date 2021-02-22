@@ -43,8 +43,8 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTec
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/git.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=450 align="left"/></code>
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right"/></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=450 align="left" /></code>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right" /></code>
 
 
 
