@@ -49,5 +49,3 @@ I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTec
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right" />
 
 
-
-
