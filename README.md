@@ -1,6 +1,6 @@
 ### Hi all, I'm Suvarnesh 👋
 
-I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTech majoring in Electrical and Electronics from [CUCEK](http://cucek.in/). I am a Developer , also Security and OSINT enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Django / Flutter and some other cool libraries and frameworks and I'm a Cybersecurity enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 <a href="https://twitter.com/SuvarneshKM">
