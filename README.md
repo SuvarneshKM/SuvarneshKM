@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi all, I'm Suvarnesh 👋
 
 I am [Suvarnesh K M](https://suvarneshkm.github.io/), currently pursuing my BTech majoring in Electrical and Electronics from [CUCEK](http://cucek.in/). I am a Developer , also Security and OSINT enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
