@@ -2,6 +2,7 @@
 
 A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Django / Flutter and some other cool libraries and frameworks and I'm a Cybersecurity enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+_____________________________________________________________
 
 <a href="https://twitter.com/SuvarneshKM">
   <img align="left" alt="Suvarnesh K M | Twitter" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/twitter.svg" />
@@ -17,6 +18,7 @@ A passionate Full Stack Software Developer 🚀 having an experience of building
 </a>
   <br />
 
+_____________________________________________________________
 
 **Talking about Personal Stuffs:**
 
