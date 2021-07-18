@@ -27,6 +27,7 @@ _____________________________________________________________
 - 💬 Ask me about anything, I am happy to help;
 - :milky_way: Still discovering the mysteries in universe
 - :rocket:[Portfolio](https://suvarneshkm.github.io/)
+_____________________________________________________________
 
 **Languages and Tools:**  
 
@@ -43,6 +44,7 @@ _____________________________________________________________
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/mysql.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/git.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
+_____________________________________________________________
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=450 align="left" />
