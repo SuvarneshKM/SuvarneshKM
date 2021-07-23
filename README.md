@@ -47,7 +47,7 @@ _____________________________________________________________
 _____________________________________________________________
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true" width=450 align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuvarneshKM&theme=dark&show_icons=true&count_private=true" width=450 align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvarneshKM&theme=dark&layout=compact&show_icons=true" align="right" />
 
 
