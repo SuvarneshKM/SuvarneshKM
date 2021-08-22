@@ -11,7 +11,7 @@ _____________________________________________________________
   <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-linkedin-2.svg" />
 </a>
 <a href="https://www.facebook.com/suvarneshkm/">
-  <img align="left" alt="Suvarnesh K M | Facebook" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/facebook.svg" />
+  <img align="left" alt="Suvarnesh K M | Facebook" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-facebook-logo.svg" />
 </a>
 <a href="https://www.instagram.com/_suvarnesh.rdg_/">
   <img align="left" alt="Suvarnesh K M | Instagram" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/instagram.svg" />
