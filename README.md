@@ -41,7 +41,7 @@ _____________________________________________________________
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-bootstrap.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-react-native.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flutter.svg"></code>
-<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/mysql.svg"></code>
+<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-mysql-logo.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/git.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
 _____________________________________________________________
