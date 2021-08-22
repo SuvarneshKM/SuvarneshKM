@@ -37,13 +37,13 @@ _____________________________________________________________
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-html-5.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-css3.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-javascript.svg"></code>
-<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-django.svg"></code>
-<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-bootstrap.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-react-native.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flutter.svg"></code>
+<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-django.svg"></code>
+<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flask.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-mysql-logo.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-git.svg"></code>
-<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flask.svg"></code>
+<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-bootstrap.svg"></code>
 _____________________________________________________________
 
 
