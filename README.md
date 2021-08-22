@@ -31,8 +31,8 @@ _____________________________________________________________
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-c-programming.svg"></code>
-<code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-c%2B%2B.svg"></code>
+<code><img height="50" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-c-programming.svg"></code>
+<code><img height="50" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-c%2B%2B.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-python.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/html5.svg"></code>
 <code><img height="20" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/css3.svg"></code>
