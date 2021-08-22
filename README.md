@@ -5,7 +5,7 @@ A passionate Full Stack Software Developer 🚀 having an experience of building
 _____________________________________________________________
 
 <a href="https://twitter.com/SuvarneshKM">
-  <img align="left" alt="Suvarnesh K M | Twitter" width="22px" height="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-twitter.svg" />
+  <img align="left" alt="Suvarnesh K M | Twitter" width="40px" height="40px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/suvarnesh-km/">
   <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" height="22px"  src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-linkedin-2.svg" />
