@@ -8,7 +8,7 @@ _____________________________________________________________
   <img align="left" alt="Suvarnesh K M | Twitter" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/suvarnesh-km/">
-  <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linkedin.svg" />
+  <img align="left" alt="Suvarnesh K M | Linkedin" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-linkedin-2.svg" />
 </a>
 <a href="https://www.facebook.com/suvarneshkm/">
   <img align="left" alt="Suvarnesh K M | Facebook" width="22px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/facebook.svg" />
