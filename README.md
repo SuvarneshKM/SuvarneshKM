@@ -43,7 +43,7 @@ _____________________________________________________________
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flutter.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-mysql-logo.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-git.svg"></code>
-<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/linux.svg"></code>
+<code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flask.svg"></code>
 _____________________________________________________________
 
 
