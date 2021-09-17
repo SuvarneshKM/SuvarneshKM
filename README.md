@@ -23,7 +23,7 @@
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-css3.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-javascript.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-react-native.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/SuvarneshKM/SuvarneshKM/main/icons/nextjs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/SuvarneshKM/SuvarneshKM/4b1b46b9c37a3db1826937cbc517dff23e2dc2ca/icons/next-js-seeklogo.com.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flutter.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-django.svg"></code>
 <code><img height="40" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-flask.svg"></code>
