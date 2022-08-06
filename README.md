@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 - :milky_way: Still discovering the mysteries in universe
-- :rocket:[Portfolio](https://suvarneshkm.github.io/)
+- :rocket:[Portfolio](https://suvarneshkm.vercel.app/)
 
 <br/>
 
