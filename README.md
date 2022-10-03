@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 [![@suvarnesh's Holopin board](https://holopin.io/api/user/board?user=suvarnesh)](https://holopin.io/@suvarnesh)
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suvarnesh K M</h1>
