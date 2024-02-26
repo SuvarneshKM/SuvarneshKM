@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 - :sunglasses: I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Next.js; 
+- 🌱 I’m currently learning React Native; 
 - 💬 Ask me about anything, I am happy to help;
 - :milky_way: Still discovering the mysteries in universe
 - :rocket:[Portfolio](https://suvarneshkm.vercel.app/)
